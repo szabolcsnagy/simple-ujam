@@ -28,3 +28,7 @@ This is the first article. We are mainly testing `syntax highlighting` here...
   </body>
 </html>
 ```
+
+```javascript
+const str = `Hello ${name ? name : "World"}!`;
+```
